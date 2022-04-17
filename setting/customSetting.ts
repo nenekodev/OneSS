@@ -1,25 +1,25 @@
 const customSetting = {
-    siteName: 'OneSS',
+    siteName: 'nenekoDev OSS',
     index: {
         backgroundImage: '/api/bingPic',
-        title: 'OneSS',
+        title: 'nenekoDev OSS',
         introduction: 'Make your Onedrive work like OSS'
     },
     link: {
-        github: 'https://github.com/Tualin14/OneSS',
-        email: 't@dzaaaaaa.com',
+        github: 'https://github.com/nenekodev',
+        email: 'hello@neneko.cn',
 
         twitter: {
-            enable: true,
-            link: 'https://twitter.com/OliviaiDT'
+            enable: false,            
+            link: ''
         },
         bilibili: {
-            enable: true,
-            link: 'https://space.bilibili.com/403504801'
+            enable: false,            
+            link: ''
         },
         youtube: {
             enable: false,
-            link: 't@dzaaaaaa.com'
+            link: ''
         },
     },
 }

@@ -1,8 +1,7 @@
 const userList: userListType = {
-    users: ["share@dzaaaaaa.com", "oness@dzaaaaaa.com"],
+    users: ["oss@azure.neneko.cn"],
     nickname: {
-        "share@dzaaaaaa.com": '🤝 分享功能测试',
-        "oness@dzaaaaaa.com": '🌟 ☁OneSS † 开发测试用 †',
+        "oss@azure.neneko.cn": '🐱 nenekoDev',
     }
 }
 export default userList;
